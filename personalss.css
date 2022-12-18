@@ -1,24 +1,24 @@
-﻿
 body {
-    background-color:cornflowerblue;
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    color:floralwhite;
+    background-color: aliceblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: floralwhite;
 }
 
-h1{
-    background-color:white;
-    color:lightcoral;
-    text-align:center;
+h1 {
+    background-color: white;
+    color: darkblue;
+    text-align: center;
 }
 
-p{
-    font-size:36px;
-    color:rebeccapurple;
-    padding:30px;
+p {
+    font-size: 32px;
+    color: rebeccapurple;
+    padding: 30px;
 }
 
-a{
-    text-decoration:none;
-    color:aliceblue;
-    font-size:24px;
+a {
+    text-decoration: none;
+    color: rebeccapurple;
+    font-size: 24px;
 }
+
